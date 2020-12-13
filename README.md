@@ -19,6 +19,6 @@ The data set comes from the open source data of Shenzhen municipal government, a
 1.Add real-time calculation and processing part
 2.Add data display part
 
-## Thanks to
+## Thanks
 The whole project refers to the open source project of youth geek. If you want to know more about the ecological use of big data based on this dataset, please see this link:
 https://gitee.com/geekyouth/SZT-bigdata?_from=gitee_search
