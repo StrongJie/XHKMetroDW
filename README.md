@@ -13,7 +13,7 @@ The data set comes from the open source data of Shenzhen municipal government, a
 2. Using Flink Scala for ETL to produce data information in CSV format. You need to use local redis because redis is used to remove duplication.
    According to the current code logic, it may take more time to parse all the data.
    At present, the project does not involve data collection. After extracting the CSV data, the data needs to be manually transferred to the relevant directory of HDFS
-3. The data warehouse part is divided into ODS DWD DWS ads, in which ads involves several indexes, which are basically calculated offline based on one day's indicators.
+3. The data warehouse part is divided into ODS DWD DWS ADS, in which ADS involves several indexes, which are basically calculated offline based on one day's indicators.
 
 ## Future development plan
 1.Add real-time calculation and processing part  
