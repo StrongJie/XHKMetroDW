@@ -2,10 +2,10 @@
 Development and construction of digital warehouse in Metro data.
 The data set comes from the open source data of Shenzhen municipal government, and the data does not involve any sensitive information. It can be used for big data processing, such as offline computing.
 
-## Big data technology ecology involved:
-1.Hadoop：HDFS MR Yarn
-2.Hive
-3.Redis
+## Big data technology ecology involved
+1.Hadoop：HDFS MR Yarn  
+2.Hive  
+3.Redis  
 4.Flink
 
 ## Key points of the project
@@ -15,8 +15,8 @@ The data set comes from the open source data of Shenzhen municipal government, a
    At present, the project does not involve data collection. After extracting the CSV data, the data needs to be manually transferred to the relevant directory of HDFS
 3. The data warehouse part is divided into ODS DWD DWS ads, in which ads involves several indexes, which are basically calculated offline based on one day's indicators.
 
-## Future development plan:
-1.Add real-time calculation and processing part
+## Future development plan
+1.Add real-time calculation and processing part  
 2.Add data display part
 
 ## Thanks
