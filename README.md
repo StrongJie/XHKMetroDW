@@ -15,6 +15,7 @@ The data set comes from the open source data of Shenzhen municipal government, a
    At present, the project does not involve data collection. After extracting the CSV data, the data needs to be manually transferred to the relevant directory of HDFS
 3. The data warehouse part is divided into ODS DWD DWS ADS, in which ADS involves several indexes, which are basically calculated offline based on one day's indicators.
 
+
 ## Future development plan
 1.Add real-time calculation and processing part  
 2.Add data display part
