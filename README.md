@@ -3,7 +3,7 @@ Development and construction of digital warehouse in Metro data.
 The data set comes from the open source data of Shenzhen municipal government, and the data does not involve any sensitive information. It can be used for big data processing, such as offline computing.
 
 ## Big data technology ecology involved
-1.Hadoop：HDFS MR Yarn  
+1.Hadoop：HDFS  MR Yarn  
 2.Hive  
 3.Redis  
 4.Flink
